@@ -26,7 +26,7 @@ Welcome to my QA and IT project portfolio. I'm an IT Support Specialist and QA E
 **Result:** Cut resolution time by 50%, improved uptime
 
 ## 📄 Resume
-[Download my resume (PDF)](link-to-your-resume.com) *(You can upload it here or on Google Drive and link it)*
+Download 
 
 ## 🔗 Contact & Profiles
 - 📧 Email: shahab.hbs@gmail.com  
